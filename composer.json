@@ -1,0 +1,18 @@
+{
+    "name": "kapilrain/category",
+    "description": "This is a category package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kapilrain\\Category\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kapil Rain"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
